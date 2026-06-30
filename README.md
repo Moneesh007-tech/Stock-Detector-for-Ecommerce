@@ -4,7 +4,7 @@
 
 [![Live Demo](https://lumina-predict.onrender.com)]() 
 
-📌 **[PASTE YOUR DEPLOYED LIVE APP LINK HERE]**
+📌 **[https://lumina-predict.onrender.com]**
 
 ---
 
